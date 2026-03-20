@@ -1,16 +1,37 @@
-## Hi there 👋
+# hey, i'm Egor 👋
+> building things · forever learning
 
-<!--
-**egorkonovalov-svg/egorkonovalov-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![JavaScript](https://img.shields.io/badge/JavaScript-FAEEDA?style=flat&labelColor=FAEEDA&color=633806&logo=javascript&logoColor=633806)
+![TypeScript](https://img.shields.io/badge/TypeScript-E6F1FB?style=flat&labelColor=E6F1FB&color=0C447C&logo=typescript&logoColor=0C447C)
+![Python](https://img.shields.io/badge/Python-EAF3DE?style=flat&labelColor=EAF3DE&color=27500A&logo=python&logoColor=27500A)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## about me
+
+i'm a student who got tired of just studying and started building instead. currently figuring out how things work by taking them apart (and sometimes breaking them). i write JS/TS for the web and Python for everything else.
+
+- currently working on **Finance Tracker** — a cross-platform personal finance app
+- learning something new every day, shipping when i can
+- based in russia
+
+---
+
+## what i'm up to
+
+| status | focus |
+|--------|-------|
+| building & learning | web + mobile apps |
+
+---
+
+## tech i use
+
+```
+Languages:  JavaScript / TypeScript · Python
+Tools:      Git / GitHub · VS Code · Claude Code
+```
+
+---
+
+<p align="center"><i>"the best way to learn is to build something real"</i></p>
