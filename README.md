@@ -1,5 +1,15 @@
+```
+╔══════════════════════════════════════════════════╗
+
+  █▄▄ █░█ █ █░░ █▀▄ █ █▄░█ █▀▀
+  █▄█ █▄█ █ █▄▄ █▄▀ █ █░▀█ █▄█   things.
+
+      ·  ✦  ·  ·  ✦  ·  ·  ✦  ·
+
+╚══════════════════════════════════════════════════╝
+```
+
 # hey, i'm Egor 👋
-> building things · forever learning
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FAEEDA?style=flat&labelColor=FAEEDA&color=633806&logo=javascript&logoColor=633806)
 ![TypeScript](https://img.shields.io/badge/TypeScript-E6F1FB?style=flat&labelColor=E6F1FB&color=0C447C&logo=typescript&logoColor=0C447C)
@@ -7,15 +17,26 @@
 
 ---
 
-## about me
+```
+┌─────────────────────────────────────────────────┐
+│  about me                                       │
+│                                                 │
+│  student who got tired of studying and started  │
+│  building instead. JS/TS for the web, Python    │
+│  for everything else.                           │
+│                                                 │
+│  ⟡ building a Finance Tracker (cross-platform) │
+│  ⟡ based in Russia                             │
+│  ⟡ shipping when i can                         │
+└─────────────────────────────────────────────────┘
+```
 
-i'm a student who got tired of just studying and started building instead. currently figuring out how things work by taking them apart (and sometimes breaking them). i write JS/TS for the web and Python for everything else.
-
-- currently working on a **Finance Tracker** — a cross-platform personal finance app
-- learning something new every day, shipping when i can
-- based in Russia
-
-## github stats
+```
+        /\      /\
+       /  \    /  \
+      /    \  /    \
+─────/──────\/──────\─────
+```
 
 <div align="center">
 
@@ -26,23 +47,25 @@ i'm a student who got tired of just studying and started building instead. curre
 
 </div>
 
----
-
-## what i'm up to
-
-| status | focus |
-|--------|-------|
-| building & learning | web + mobile apps |
-
----
-
-## tech i use
+```
+  ·  ✦  ·    ·  ✦  ·    ·  ✦  ·    ·  ✦  ·
+```
 
 ```
-Languages:  JavaScript / TypeScript · Python
-Tools:      Git / GitHub · VS Code · Claude Code
+┌─────────────────────────────────────────────────┐
+│  tech                                           │
+│                                                 │
+│  languages  ·  JS / TS  ·  Python               │
+│  tools      ·  Git  ·  VS Code  ·  Claude Code  │
+└─────────────────────────────────────────────────┘
 ```
 
 ---
 
 <p align="center"><i>"the best way to learn is to build something real"</i></p>
+
+```
+        ◇
+       ◇ ◇
+        ◇
+```
