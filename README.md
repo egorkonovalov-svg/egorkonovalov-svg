@@ -57,9 +57,6 @@
 <div align="center">
 
 
-![Egor's GitHub stats](https://github-readme-stats.vercel.app/api?username=egorkonovalov-svg&show_icons=true&hide_border=true&title_color=534AB7&icon_color=534AB7&text_color=888780&bg_color=00000000&count_private=true&v=1)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=egorkonovalov-svg&layout=compact&hide_border=true&title_color=534AB7&text_color=888780&bg_color=00000000&v=1)
-=======
 ![Egor's GitHub stats](https://github-readme-stats.vercel.app/api?username=egorkonovalov-svg&show_icons=true&hide_border=true&title_color=534AB7&icon_color=534AB7&text_color=888780&bg_color=00000000&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=egorkonovalov-svg&layout=compact&hide_border=true&title_color=534AB7&text_color=888780&bg_color=00000000)
 
