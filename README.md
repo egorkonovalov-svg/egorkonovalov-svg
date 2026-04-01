@@ -37,13 +37,13 @@
 ┌─────────────────────────────────────────────────┐
 │  about me                                       │
 │                                                 │
-│  student who got tired of studying and started  │
-│  building instead. JS/TS for the web, Python    │
-│  for everything else.                           │
+│  Currently a non-technical student, but i       |
+│  want to get into programming. Mostly i use     |
+|  JS/TS for the frontend and python for backend. |
 │                                                 │
-│  ⟡ building a Finance Tracker (cross-platform)  │
-│  ⟡ based in Russia                              │ 
-│  ⟡ shipping when i can                          │
+│  ⟡ building a finance tracker (at least trying) │
+│  ⟡ based in Moscow, Russia                      │ 
+│  ⟡ Never shipped anything yet...                │
 └─────────────────────────────────────────────────┘
 ```
 
